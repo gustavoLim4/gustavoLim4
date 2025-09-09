@@ -36,8 +36,6 @@
 
 ### 📊 GitHub Stats
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoLim4&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoLim4&layout=compact&theme=radical)
 
 ---
