@@ -7,10 +7,11 @@
 🤝 **Estou procurando colaborar em:** Projetos de desenvolvimento de sites e aplicações modernas. Se você precisa de colaboração, pode contar comigo!  
 
 📩 **Como me encontrar:**  
+- Portfólio : https://portfolio-gustavo-ashy.vercel.app
 - Email: gustavolimmaass@gmail.com  
 - LinkedIn: [linkedin.com/in/gustavolima](https://linkedin.com/in/gustavolima)  
 - GitHub: [github.com/gustavoLim4](https://github.com/gustavoLim4)
-- Portfólio : https://portfolio-gustavo-ashy.vercel.app
+
 
 ---
 
