@@ -9,7 +9,7 @@ React, TypeScript, Node.js, MySQL, GraphQL e boas práticas de UI/UX no Figma.
 📩 **Como me encontrar:**  
 - Portfólio : https://portfolio-gustavo-ashy.vercel.app
 - Email: gustavolimmaass@gmail.com  
-- LinkedIn: [linkedin.com/in/gustavo-dvp]([https://linkedin.com/in/gustavolima](https://www.linkedin.com/in/gustavo-dvp/))  
+- LinkedIn: https://www.linkedin.com/in/gustavo-dvp/  
 
 ---
 
